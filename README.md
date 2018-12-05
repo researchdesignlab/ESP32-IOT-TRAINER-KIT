@@ -3,7 +3,7 @@ Research Design Lab’s ESP32 IoT Trainer Kit is designed keeping in mind the la
 # Features
 Atmega328p- controller and ESP8266 Module.
 Standard I/O interface.
-Programmable with Arduino open source IDE..
+Programmable with Arduino open source IDE.
 8 independent LED.
 1 * 4 independent keys.
 4* 4 keypad matrix.
